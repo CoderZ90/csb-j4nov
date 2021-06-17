@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://coderz90.github.io/csb-j4nov/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://coderz90.github.io/csb-j4nov/static/js/main.1cea5c6d.chunk.js",
+    "main.js.map": "https://coderz90.github.io/csb-j4nov/static/js/main.1cea5c6d.chunk.js.map",
+    "runtime-main.js": "https://coderz90.github.io/csb-j4nov/static/js/runtime-main.f9a5b898.js",
+    "runtime-main.js.map": "https://coderz90.github.io/csb-j4nov/static/js/runtime-main.f9a5b898.js.map",
+    "static/js/2.d0a0fbf3.chunk.js": "https://coderz90.github.io/csb-j4nov/static/js/2.d0a0fbf3.chunk.js",
+    "static/js/2.d0a0fbf3.chunk.js.map": "https://coderz90.github.io/csb-j4nov/static/js/2.d0a0fbf3.chunk.js.map",
+    "index.html": "https://coderz90.github.io/csb-j4nov/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://coderz90.github.io/csb-j4nov/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.d0a0fbf3.chunk.js.LICENSE.txt": "https://coderz90.github.io/csb-j4nov/static/js/2.d0a0fbf3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9a5b898.js",
+    "static/js/2.d0a0fbf3.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.1cea5c6d.chunk.js"
+  ]
+}
